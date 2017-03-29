@@ -70,14 +70,12 @@ body > #wrap {
 
 .intro {
 	background-color: #fff6f1;
-	padding: 15% 0 5% 0;
-	margin: 0 -15px 0 -15px;
-	text-align: center;
+	padding: 260px 0 5% 0; 
 }
 
 .intro h1 {
 	font-family: 'Playfair Display';
-	font-size: 4.5em;
+	font-size: 64px;
 	font-weight: 700;
 	line-height: 1;
 	letter-spacing: -0.025em;
@@ -87,14 +85,13 @@ body > #wrap {
 
 .intro h1 span {
 	font-family: 'CircularBold';
-	display: inline;
 	letter-spacing: 0px;
 	font-weight: 400;
 	color: #f04306;
 }
 
 .intro img {
-	height: 2.5em;
+	width: 60%;
 }
 
 
@@ -103,6 +100,7 @@ body > #wrap {
 	font-size: 24px;
 	line-height: 1.5;
 	color: #2c2bab;
+	text-align: center;
 }
 
 .intro span{
@@ -113,6 +111,7 @@ body > #wrap {
 	font-family: 'Circular';
 	font-size: 18px;
 	color: #2c2bab;
+	text-align: center;
 }
 
 .work {
