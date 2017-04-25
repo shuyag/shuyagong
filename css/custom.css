@@ -220,3 +220,11 @@ body > #wrap {
 	padding: 2em 1em 0em 3em;
 	color: #000000;
 }
+
+.instafeed{
+	position: static;
+	background-color: #f2f2f2;
+	margin: -15px -15px -15px -15px;
+	padding: 10% 0 0 0;
+}
+
